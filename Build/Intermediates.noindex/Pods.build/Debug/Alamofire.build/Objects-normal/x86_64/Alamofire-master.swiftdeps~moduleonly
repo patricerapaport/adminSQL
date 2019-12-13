@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "06607de4b68ea96de1b8fa08761db79b"
+build_time: [1576242168, 213216000]
+inputs:
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/AFError.swift": [1571290620, 852536702]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Alamofire.swift": [1571290620, 853132792]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1571290620, 852108686]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/MultipartFormData.swift": [1571290620, 851379294]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1571290620, 851707937]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Notifications.swift": [1571290620, 852812006]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/ParameterEncoding.swift": [1571290620, 852384031]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Request.swift": [1571290620, 853279441]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Response.swift": [1571290620, 852967989]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/ResponseSerialization.swift": [1571290620, 853603081]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Result.swift": [1571290620, 852233170]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1571290620, 853750710]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/SessionDelegate.swift": [1571290620, 853926751]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/SessionManager.swift": [1571290620, 853449407]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/TaskDelegate.swift": [1571290620, 851221695]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Timeline.swift": [1571290620, 851976614]
+  "/Users/patricerapaport/Desktop/swift/adminSQL/Pods/Alamofire/Source/Validation.swift": [1571290620, 852668198]

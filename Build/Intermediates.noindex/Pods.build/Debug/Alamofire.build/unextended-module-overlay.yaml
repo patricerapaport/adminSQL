@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/patricerapaport/Desktop/swift/adminSQL/Build/Products/Debug/Alamofire/Alamofire.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/patricerapaport/Desktop/swift/adminSQL/Build/Intermediates.noindex/Pods.build/Debug/Alamofire.build/unextended-module.modulemap",
+    }]
+  }]
+}

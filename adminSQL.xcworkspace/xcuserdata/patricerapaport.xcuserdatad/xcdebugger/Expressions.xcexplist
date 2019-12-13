@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #2 in closure #1 in ViewController.tableViewSelectionDidChange(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.scroll(_:_:_:):gererFields.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableDonnees">
+            </PersistentString>
+            <PersistentString
+               value = "floor(delta)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mainController.comboSelectionDisdChange(_:):mainController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CComboBox.comboBoxSelectionDidChange(_:):CComboBoxes.swift">
+      </ContextState>
+      <ContextState
+         contextName = "analyzeSauvegarde.outlineView(_:viewFor:item:):analyzeSauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item as!  CLineTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "explorer.numberOfRows(in:):explorer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fichiers.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "serversWindow.windowDidLoad():serversWindow.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DumpTableModel.init(from:):dumpTable.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "container.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.tabView(_:didSelect:):gererFields.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableDonnees.numberOfRows">
+            </PersistentString>
+            <PersistentString
+               value = "tabViewItem!.identifier as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.numberOfRows(in:):gererFields.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TablesModel.initialFetch(_:_:completion:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "serversWindow.myKeyDown(with:):serversWindow.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window?.firstResponder.className">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TablesModel.initialFetch(_:_:completion:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in closure #1 in sauvegarde.sauvegardeTable(_:_:):sauvegarde.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CTextfield.acceptsFirstResponder.getter:CTextFields.swift">
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.tableSuivante(_:_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "database.tables[index].tblname">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in sauvegarde.dumpTable(_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "valeur as? Int">
+            </PersistentString>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in gererFields.preparerTableDonnees():gererFields.swift">
+      </ContextState>
+      <ContextState
+         contextName = "specialized closure #1 in recuperation.traiterDonneesTable(lastDonnee:_:):recuperation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cmds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.tableView(_:viewFor:row:):gererFields.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "table.pageDemandee(row)">
+            </PersistentString>
+            <PersistentString
+               value = "tableColumn?.identifier.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "table.data">
+            </PersistentString>
+            <PersistentString
+               value = "table.lastPageEnMemoire()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TableModel.fetchData(_:_:_:_:_:_:):table.swift">
+      </ContextState>
+      <ContextState
+         contextName = "StackExchangeClient.init(_:):stackExchangeClient.swift">
+      </ContextState>
+      <ContextState
+         contextName = "explorer.windowDidLoad():explorer.swift">
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.windowDidLoad():sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "btSauvegarder as! NSButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in StackExchangeClient.fetch&lt;A&gt;(request:dataResponse:completion:):stackExchangeClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+            <PersistentString
+               value = "request.Parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #2 in mainController.askForFields(_:_:_:):mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "aCombo!.indexOfSelectedItem-1">
+            </PersistentString>
+            <PersistentString
+               value = "self.leftTable.selectedRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.tableView(_:viewFor:row:):sauvegarde.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TablesModel.pageDemandee(_:):tables.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "limit % index">
+            </PersistentString>
+            <PersistentString
+               value = "index % limit">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TablesModel.fetch(_:_:completion:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.ecrire(_:_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text.data(using: .utf8)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.sauvegarder(_:):sauvegarde.swift">
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.preparerTableDonnees():gererFields.swift">
+      </ContextState>
+      <ContextState
+         contextName = "mainController.outlineView(_:numberOfChildrenOfItem:):mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(item as! DatabasesModel).tables.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TablesRequest.init(_:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TablesModel.destroyPageData(_:):tables.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mainController.positionnerBoxes():mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "boxGauche.layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TablesModel.lastPageEnMemoire():tables.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentPage+data.count/limit">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.dumpTable(_:_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "OperationQueue">
+            </PersistentString>
+            <PersistentString
+               value = "DispatchQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CLineRead.read():CLineReader.swift">
+      </ContextState>
+      <ContextState
+         contextName = "explorer.tableView(_:viewFor:row:):explorer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+            <PersistentString
+               value = "dict">
+            </PersistentString>
+            <PersistentString
+               value = "tableColumn?.identifier.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in TablesModel.fetch(_:_:completion:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DatabasesModel.fetchShowNbtables(_:_:_:):databases.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in mainController.askForFields(_:_:_:_:):mainController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "gererFields.didLiveScroll(_:):gererFields.swift">
+      </ContextState>
+      <ContextState
+         contextName = "analyzeSauvegarde.outlineView(_:numberOfChildrenOfItem:):analyzeSauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item as CLineDatabase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CTableView.nbRowsAffichees():CTableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TablesModel.fetch(_:_:completion:):tables.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CTableView.scrollWheel(with:):CTableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event.deltaY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StackExchangeClient.fetch&lt;A&gt;(request:dataResponse:completion:):stackExchangeClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static cDates.heureDuJour():dates.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "format.string(from: now)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CLineRead.getTipeLine(_:):CLineReader.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in sauvegarde.sauvegardeTable(_:_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "file">
+            </PersistentString>
+            <PersistentString
+               value = "String(text)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde.sauvegarde(_:):sauvegarde.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dir.path + &quot;/&quot; + file">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "parentWC.addControls(_:):parentWC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "recuperation.recupererOptions():recuperation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "mainController.lancerSauvegarde(_:):mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window?.firstResponder.self">
+            </PersistentString>
+            <PersistentString
+               value = "combo!.indexOfSelectedItem-1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mainController.outlineView(_:child:ofItem:):mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(item as! TablesModel).fields">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.numberOfRows(in:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in ViewController.Chargements(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "sauvegarde._dumpTable(_:_:_:):sauvegarde.swift">
+      </ContextState>
+      <ContextState
+         contextName = "recuperation.windowDidLoad():recuperation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "mainController.outlineView(_:viewFor:item:):mainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.imageView">
+            </PersistentString>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+            <PersistentString
+               value = "(subview as! NSTextField).identifier">
+            </PersistentString>
+            <PersistentString
+               value = "(item as! IndexesModel).column">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in recuperation.verifDatabase():recuperation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "serversWindow.numberOfRows(in:):serversWindow.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myApp.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
